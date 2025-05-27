@@ -1,0 +1,277 @@
+{
+  "basics": {
+    "name": "Daniel Augusto Rodrigues Farina",
+    "headline": "Mestre em Informática",
+    "email": "daniel.rodrigues.45g@gmail.com",
+    "phone": "+55 (11) 9 5333-2559",
+    "location": "SP, Brasil",
+    "url": {
+      "label": "Portfolio",
+      "href": "https://danielbom.github.io/portfolio/"
+    }
+  },
+  "sections": {
+    "summary": {
+      "id": "summary",
+      "name": "Resumo",
+      "visible": true,
+      "content": [
+        "Sou mestre em Informática pelo Instituto Politécnico de Bragança (IPB/PT) por meio do programa de dupla diplomação com a Universidade Tecnológica Federal do Paraná, campus Campo Mourão (UTFPR/CM-PR), onde sou graduado como bacharel em Ciências da Computação.",
+        "Minha experiência profissional começou com um estágio em uma startup e se expandiu ao trabalhar em diversas empresas em Campo Mourão (PR), onde adquiri conhecimentos práticos em metodologias ágeis, atuando em projetos como desenvolvedor Full Stack.",
+        "Além disso, tive a oportunidade de trabalhar com tecnologias para implantação, como GitHub Actions e Azure Actions, bem como com ferramentas para gerenciamento de projetos organizados em microserviços, utilizando Kubernetes.",
+        "Concluída a extensão dos meus estudos em Portugal e de volta ao Brasil, busco uma oportunidade para aplicar minhas habilidades, contribuindo para a solução de problemas sociais e organizacionais por meio da tecnologia."
+      ]
+    },
+    "education": {
+      "id": "education",
+      "name": "Formação",
+      "visible": true,
+      "items": [
+        {
+          "visible": true,
+          "institution": "Instituto Politécnico de Bragança (IPB)",
+          "area": "Mestrado em Informática",
+          "date": { "from": "Fevereiro 2023", "to": "Junho 2024" },
+          "date_ref": { "from": "2023-02-20", "to": "2024-06-28" },
+          "summary": "TCC investigando o comportamento de sistemas paralelos em programas C com o uso de fork. Foi desenvolvido e avaliado em sala de aula um simulador para auxiliar no ensino de Sistemas Operacionais, com os resultados da execução real de programas C preprocessados com a injeção de código que registrava o comportamento e gerava um arquivo de registros para ser visualizado.",
+          "url": {
+            "label": "Website",
+            "href": "https://estig.ipb.pt/"
+          }
+        },
+        {
+          "visible": true,
+          "institution": "Universidade Tecnológica Federal do Paraná (UTFPR)",
+          "area": "Ensino Superior em Bacharelado em Ciências da Computação",
+          "date": { "from": "Agosto 2016", "to": "Outubro 2024" },
+          "date_ref": { "from": "2016-08-08", "to": "2024-10-18" },
+          "summary": "",
+          "url": {
+            "label": "Website",
+            "href": "http://www.utfpr.edu.br/"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Experiência",
+      "visible": true,
+      "items": [
+        {
+          "visible": true,
+          "company": "Viptech",
+          "position": "Desenvolvedor Full Stack",
+          "location": "Campo Mourão, PR - Brasil",
+          "date": { "from": "Março 2022", "to": "Fevereiro 2023" },
+          "date_ref": { "from": "2022-03-04", "to": "2023-01-30" },
+          "tech": {
+            "label": "Tecnologias",
+            "items": "NodeJS, NestJS, .NET, Python, Postgres, OracleDB, Redis, Angular, React, Kubernetes"
+          },
+          "activities": [
+            "Desenvolvimento de páginas web e APIs em modelo de microserviço.",
+            "Integração com modelos de IA (Yolo) para reconhecimentos de imagens.",
+            "Atualização das configurações das aplicações executando no Kubernetes.",
+            "Adição de formulários dinâmicos e resiliêntes a falhas."
+          ],
+          "results": [
+            "Configuração dinâmica para câmeras de 3 marcas diferente.",
+            "Páginas com formulários inteligentes, com buscas e preenchimentos automatizados.",
+            "Análise e resiliência com dados inconsistentes durante a confirmação dos formulários, relatando as suas pendências."
+          ],
+          "url": {
+            "label": "Website",
+            "href": "https://viptech.com.br/"
+          }
+        },
+        {
+          "visible": true,
+          "company": "Cristófoli",
+          "position": "Desenvolvedor de Aplicativos Móveis",
+          "location": "Campo Mourão, PR - Brasil",
+          "date": { "from": "Junho 2021", "to": "Dezembro 2021" },
+          "date_ref": { "from": "2021-06-10", "to": "2021-12-10" },
+          "tech": {
+            "label": "Tecnologias",
+            "items": "React Native, Socket TCP"
+          },
+          "activities": [
+            "Desenvolmento de aplicativo móvel.",
+            "Integração com API Java.",
+            "Integração com dispositivos próximos a partir de protocolo TCP."
+          ],
+          "results": [
+            "Aplicação com menu principal dinâmico em formato circular.",
+            "Listagem de dispositivos pareados, monitorados a partir de pacotes TCP e socket bidirecional.",
+            "Comunicação e envio de comandos aos dispositivos pareados.",
+            "Interface para o gerenciamento do perfil do utilizador."
+          ],
+          "url": {
+            "label": "Website",
+            "href": "https://www.cristofoli.com/"
+          }
+        },
+        {
+          "visible": true,
+          "company": "ATLA Ensino",
+          "position": "Desenvolvedor de Software Estagiário",
+          "location": "Campo Mourão, PR - Brasil",
+          "date": { "from": "Junho 2019", "to": "Julho 2020" },
+          "date_ref": { "from": "2019-06-10", "to": "2020-07-10" },
+          "tech": {
+            "label": "Tecnologias",
+            "items": "Angular, Ionic, NodeJS, ExpressJS, MongoDB"
+          },
+          "activities": [
+            "Atualização do aplicativo móvel e do sistema web.",
+            "Atualiação da API com consultas a dados para relatórios.",
+            "Atualiação da API com envio automático de notificações.",
+            "Análise de experiência dos usuários.",
+            "Treinamento e suporte ao usuário."
+          ],
+          "results": [
+            "Interceptação de mais de 30 coleções diferentes para a emissão de alertas aos utilizadores.",
+            "Modelagem e sugestão para padronização na criação de páginas de recursos.",
+            "Implementação de mais de 10 relatórios diferentes (básicos gerenciais, como frequência e resultados de avaliações, e comparativos de desempenho entre turmas, escolas ou região)."
+          ],
+          "url": {
+            "label": "Website",
+            "href": "https://atlaensino.com/"
+          }
+        }
+      ]
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Idiomas",
+      "visible": true,
+      "items": [
+        {
+          "visible": true,
+          "name": "Português",
+          "level": "C2 - Proficiente"
+        },
+        {
+          "visible": true,
+          "name": "Inglês",
+          "level": "B1 - Intermediário"
+        },
+        {
+          "visible": true,
+          "name": "Italiano",
+          "level": "A2 - Elementar"
+        },
+        {
+          "visible": true,
+          "name": "Espanhol",
+          "level": "A1 - Básico"
+        }
+      ]
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Perfis",
+      "visible": true,
+      "items": [
+        {
+          "username": "Daniel Farina",
+          "icon": "linkedin",
+          "url": {
+            "label": "LinkedIn",
+            "href": "https://www.linkedin.com/in/dafarina/"
+          }
+        },
+        {
+          "username": "Daniel Farina",
+          "icon": "github",
+          "url": {
+            "label": "GitHub",
+            "href": "https://github.com/danielbom"
+          }
+        },
+        {
+          "username": "Daniel Rodrigues",
+          "icon": "facebook",
+          "url": {
+            "label": "Facebook",
+            "href": "https://www.facebook.com/danielaugusto.rodriguesfarina"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "skills": {
+      "name": "Habilidades",
+      "columns": 3,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "ReactJS",
+        "React Native",
+        "Angular",
+        "Python",
+        "FastAPI",
+        "flet",
+        "NodeJS",
+        "NestJS",
+        "C#",
+        ".NET",
+        "Java",
+        "SpringBoot",
+        "Go",
+        "Rust",
+        "MySQL",
+        "Postgres",
+        "OracleDB",
+        "MongoDB",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "NodeRED"
+      ]
+    }
+  },
+  "metadata": {
+    "layout": [
+      "summary",
+      "experience",
+      "education",
+      "skills",
+      "languages"
+    ],
+    "page": {
+      "margin": [18, 36, 18, 36]
+    },
+    "theme": {
+      "primary": "#2563eb"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ],
+        "size": 14.3
+      },
+      "lineHeight": 1.3,
+      "hideIcons": true,
+      "underlineLinks": true
+    }
+  }
+}
